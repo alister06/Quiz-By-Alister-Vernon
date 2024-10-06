@@ -1,0 +1,6 @@
+Alister	10
+Orange	9
+Orange	10
+Alister	8
+Orange	2
+Apple	8
